@@ -1,3 +1,24 @@
+## rail_ceiling (jade) - 0.0.4-0
+
+The packages in the `rail_ceiling` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade rail_ceiling --new-track` on `Mon, 04 May 2015 17:48:26 -0000`
+
+The `rail_ceiling` package was released.
+
+Version of package(s) in repository `rail_ceiling`:
+- upstream repository: https://github.com/WPI-RAIL/rail_ceiling.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## rail_ceiling (indigo) - 0.0.4-0
 
 The packages in the `rail_ceiling` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo rail_ceiling` on `Thu, 18 Dec 2014 17:43:46 -0000`
